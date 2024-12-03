@@ -73,10 +73,12 @@ h1 {
 
 h2 {
     font-size: 20px;
+    color: var(--text-clr);
     margin: 10px 0;
 }
 
 p {
     font-size: 14px;
+    color: var(--text-clr);
     line-height: 1.5;
 }
